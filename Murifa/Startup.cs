@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+
 namespace Murifa
 {
     public class Startup
@@ -50,9 +51,12 @@ namespace Murifa
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-            app.UseCookiePolicy();
-
+           app.UseCookiePolicy();
             app.UseMvc();
+
+            
+
+           
         }
     }
 }
