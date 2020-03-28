@@ -11965,7 +11965,6 @@
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.Razor.Design": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.2, )"
           },

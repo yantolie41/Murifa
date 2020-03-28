@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{29CBE947-57AA-4A26-AA2E-E3A520D6A1B9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Murifa/Murifa.csproj">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{29CBE947-57AA-4A26-AA2E-E3A520D6A1B9}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="../../../../usr/local/share/dotnet/sdk/3.1.103/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Microsoft.NET.Sdk.Razor.Compilation.targets" Line="127" Column="24" />
-      <File FileName="../../../../usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.1.2/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets" Line="68" Column="1" />
-      <File FileName="../../../../usr/local/share/dotnet/sdk/3.1.103/Sdks/Microsoft.NET.Sdk.Razor/build/netstandard2.0/Sdk.Razor.CurrentVersion.targets" Line="404" Column="5" />
+      <File FileName="Murifa/.travis.yml" Line="3" Column="12" />
+      <File FileName="Murifa.sln" Line="1" Column="1" />
       <File FileName="Murifa/Murifa.csproj" Line="17" Column="1" />
-      <File FileName="Murifa/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Murifa" expanded="True">
-            <Node name="Murifa" expanded="True" selected="True">
-              <Node name="Pages" expanded="True" />
+            <Node name="Murifa" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name=".travis.yml" selected="True" />
             </Node>
           </Node>
         </State>
